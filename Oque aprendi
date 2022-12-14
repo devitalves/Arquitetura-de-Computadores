@@ -4,3 +4,7 @@ Como funciona a linguagem que o computador entende: a linguagem de máquina;
 O computador precisa de um programa tradutor para transformar um código em uma linguagem de programação de alto nível para linguagem de máquina;
 Existem, em geral, dois tipos de tradutores: compiladores e interpretadores;
 Quais as diferenças entre compiladores e interpretadores, e suas implementações modernas.
+
+#2
+Como o SSD e HD funcionam e quais as diferenças entre eles;
+Qual é o papel da memória RAM no computador e qual sua diferença para a memória secundária (SSD ou HD);
