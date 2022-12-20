@@ -26,3 +26,10 @@ A função da memória cache para melhorar a performance do computador;
 Como as memórias de um computador são divididas de forma hierárquica;
 O que é o princípio da localidade;
 Qual a diferença entre processadores 32 e 64 bits, e qual é o impacto disso na hora de escolher o instalador de um programa.
+
+#6
+Como números inteiros, caracteres, listas e números decimais são armazenados na memória;
+O que são os formatos ASCII, Latin1, Unicode e qual sua relação com o UTF-8;
+A importância do contexto para o computador entender os dados que estão guardados na memória;
+Passagem de parâmetros por valor e por referência;
+Quais são os problemas inerentes aos números de ponto flutuante.
