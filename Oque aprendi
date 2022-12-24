@@ -32,4 +32,4 @@ Como números inteiros, caracteres, listas e números decimais são armazenados 
 O que são os formatos ASCII, Latin1, Unicode e qual sua relação com o UTF-8;
 A importância do contexto para o computador entender os dados que estão guardados na memória;
 Passagem de parâmetros por valor e por referência;
-Quais são os problemas inerentes aos números de ponto flutuante.
+Quais são os problemas inerentes aos números de ponto flutuante;
