@@ -13,7 +13,7 @@ Qual é o papel da memória RAM no computador e qual sua diferença para a memó
 Como funcionam os principais componentes de um processador;
 Como um programa em código de máquina é executado no computador;
 A importância do clock do processador para a velocidade de processamento;
-Que existem limitações de memória num computador e como criar programas eficientes para contornar esse problema.
+Que existem limitações de memória num computador e como criar programas eficientes para contornar esse problema;
 
 #4
 As diversas otimizações feitas no processadores modernos, como pipelining e multi-core;
